@@ -1,18 +1,18 @@
 const treatments = [
   {
     title: 'Radiofrecuencia facial',
-    copy: 'Una opción estética orientada al cuidado de la apariencia del rostro. La conveniencia del tratamiento y la forma de trabajarlo dependen de tus objetivos y de la orientación personalizada del centro.',
+    copy: 'Una opción de cuidado facial no invasiva para quienes buscan complementar su rutina estética y trabajar el aspecto de la piel. Consultanos y te contamos cómo se realiza y si puede ser una opción adecuada para lo que querés trabajar.',
     cta: 'Consultar si es para mí',
-    href: 'https://wa.me/59892451802?text=Hola%2C%20quisiera%20consultar%20espec%C3%ADficamente%20por%20radiofrecuencia%20facial.',
+    href: 'https://wa.me/59892451802?text=Hola%2C%20quer%C3%ADa%20consultar%20por%20radiofrecuencia%20facial.',
     image: 'assets/images/tratamiento-radiofrecuencia-facial.webp',
     imageAlt: 'Imagen ilustrativa de una sesión de radiofrecuencia facial',
     featured: true
   },
   {
-    title: '¿Buscás otra opción?',
-    copy: 'La propuesta puede ampliarse con nuevos tratamientos a medida que el negocio confirme su catálogo. Por ahora, podés contarnos qué querés trabajar y recibir orientación directa.',
-    cta: 'Contar mi objetivo',
-    href: 'https://wa.me/59892451802?text=Hola%2C%20quiero%20contarles%20mi%20objetivo%20para%20que%20me%20orienten.'
+    title: '¿No sabés cuál elegir?',
+    copy: 'Contanos qué zona te gustaría trabajar y qué estás buscando. Te ayudamos a conocer las opciones disponibles.',
+    cta: 'Hacer una consulta',
+    href: 'https://wa.me/59892451802?text=Hola%2C%20quer%C3%ADa%20hacer%20una%20consulta%20sobre%20los%20tratamientos%20de%20Est%C3%A9tica%20Tres%20Cruces.'
   }
 ];
 
